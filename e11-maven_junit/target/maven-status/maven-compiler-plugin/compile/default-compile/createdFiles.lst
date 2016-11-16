@@ -1,0 +1,10 @@
+fi/agileo/spring/e11/servlet/KelloServlet.class
+fi/agileo/spring/e11/kello/SysteemiKelloLahde.class
+fi/agileo/spring/e11/kello/SuomiKello.class
+fi/agileo/spring/e11/kello/InternetKelloLahde.class
+fi/agileo/spring/e11/kello/InternetKelloLahdePoikkeus.class
+fi/agileo/spring/e11/laskin/Laskin.class
+fi/agileo/spring/e11/kello/Kello.class
+fi/agileo/spring/e11/kello/KelloLahde.class
+fi/agileo/spring/e11/servlet/LaskinServlet.class
+fi/agileo/spring/e11/kello/NTPProperties.class

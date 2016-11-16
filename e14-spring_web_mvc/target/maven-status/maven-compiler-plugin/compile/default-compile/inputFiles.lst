@@ -1,0 +1,6 @@
+/home/oppi/workspace/spring/e14-spring_web_mvc/src/main/java/fi/agileo/spring/e14/controller/HenkiloController.java
+/home/oppi/workspace/spring/e14-spring_web_mvc/src/main/java/fi/agileo/spring/e14/dao/HenkiloRowMapper.java
+/home/oppi/workspace/spring/e14-spring_web_mvc/src/main/java/fi/agileo/spring/e14/bean/Henkilo.java
+/home/oppi/workspace/spring/e14-spring_web_mvc/src/main/java/fi/agileo/spring/e14/dao/HenkiloDAO.java
+/home/oppi/workspace/spring/e14-spring_web_mvc/src/main/java/fi/agileo/spring/e14/dao/HenkiloaEiLoydyPoikkeus.java
+/home/oppi/workspace/spring/e14-spring_web_mvc/src/main/java/fi/agileo/spring/e14/dao/HenkiloDAOSpringJdbcImpl.java
